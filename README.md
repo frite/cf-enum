@@ -18,7 +18,7 @@ put them in a JSON file for further parsing.
 This tool uses the Global API token of CloudFront. Instructions to grab
 this token are available
 [here](https://support.cloudflare.com/hc/en-us/articles/200167836-Where-do-I-find-my-Cloudflare-API-key-#12345682).
-*Beware, this token basically godlike permissions to the API*
+*Beware, this token basically grants godlike permissions to the API*
 
 Additionally, you need to do the following.
 
